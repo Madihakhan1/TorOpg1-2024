@@ -35,7 +35,7 @@ void setup() {
   
   
   //4.c Med printLn kommandoen, udskriv alle variablene, med et label foran. Fx. sådan her for variablen address: println("Adresse: "+address);
-  // Udskriver information i konsollen
+ 
   println("Summen af a og b er: " + sum);
   println("Resultatet af divisionen er: " + dividerResult);
   println(hej);
@@ -55,7 +55,7 @@ void setup() {
   dividerResult = (float) num1 / num2;
   hej = "Hej igen, bruger!";
   
-  // Udskriv information i konsollen
+  
   println("\nOpdateret info");
   println("Ny adresse: " + address);
   println("Summen af a og b er nu: " + sum);
