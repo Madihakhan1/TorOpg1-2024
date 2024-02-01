@@ -29,7 +29,7 @@ void setup() {
   address = "Din adresse er";
   sum = a + b;
   dividerResult = (float) num1 / num2;
-  hej = "Hej, bruger!";
+  hej = "Hej, med dig!";
   
  
   
@@ -53,7 +53,7 @@ void setup() {
   num1 = 8;
   num2 = 4;
   dividerResult = (float) num1 / num2;
-  hej = "Hej igen, bruger!";
+  hej = "Hej igen!";
   
   
   println("\nOpdateret info");
