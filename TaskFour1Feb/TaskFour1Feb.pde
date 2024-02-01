@@ -2,16 +2,20 @@
 String address;
 
 // 3.c tilføj erklæring af en variabel som gemmer summen af to heltal. Find selv på passende navn og datatype
+//declare and intialize
 int sum;
 int a = 1;
 int b = 2; 
 
 // 3.d gør det samme med en variabel som gemmer resultatet af en division.
+//declare and intialize
 float dividerResult;
 int num1 = 4;
 int num2 = 2; 
 
 // 3.e gør det samme med en variabel som gemmer en besked til brugeren.
+//declare and intialize
+
 String hej; 
 
 
@@ -21,7 +25,7 @@ void setup() {
   size(200, 100);
   
  //4.b I setup metoden, tildel værdier til de variable du har erklæret i det globale scope.
-  // Initialiser variabler
+
   address = "Din adresse er";
   sum = a + b;
   dividerResult = (float) num1 / num2;
