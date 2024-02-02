@@ -6,7 +6,7 @@ String address;
 
 
 //3.c tilføj erklæring af en varibel som gemmer summen af to heltal. Find selv på passende navn og datatype
-
+//jeg er kommet til at initialiseret
 int sum;
 int a = 1;
 int b = 2; 
