@@ -6,9 +6,9 @@ int d = 365;
 String city = "København";
 
 boolean happy = true;
-//60*24;
+int gange = 60*24;
 float deci = 22.12;
-println ("Hej, jeg heddder "+"Madiha");
+String greeting = "Hej, jeg heddder "+"Madiha";
 boolean sad = false;
-//2.2 + 33;
+int deci = 2.2 + 33;
 char letter = 'S';
