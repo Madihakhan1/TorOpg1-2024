@@ -64,7 +64,7 @@ void setup() {
   
   
     // 4.e Tildel nye værdier til variablene, men som tilføjelser - dvs. uden at overskrive det der allerede er gemt i variablene. Udskriv dem igen.
-address += "234";
+//address += "234";
 sum += 2;
 dividerResult += 2.3;
 
